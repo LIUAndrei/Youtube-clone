@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.7064deb2.css",
-    "main.js": "/static/js/main.904bb7e2.js",
-    "static/media/hq720.webp": "/static/media/hq720.6c9a72147aa950aff7b8.webp",
-    "index.html": "/index.html",
-    "main.7064deb2.css.map": "/static/css/main.7064deb2.css.map",
-    "main.904bb7e2.js.map": "/static/js/main.904bb7e2.js.map"
+    "main.css": "/Projects/Youflix/static/css/main.7064deb2.css",
+    "main.js": "/Projects/Youflix/static/js/main.38f12cb1.js",
+    "static/media/hq720.webp": "/Projects/Youflix/static/media/hq720.6c9a72147aa950aff7b8.webp",
+    "index.html": "/Projects/Youflix/index.html",
+    "main.7064deb2.css.map": "/Projects/Youflix/static/css/main.7064deb2.css.map",
+    "main.38f12cb1.js.map": "/Projects/Youflix/static/js/main.38f12cb1.js.map"
   },
   "entrypoints": [
     "static/css/main.7064deb2.css",
-    "static/js/main.904bb7e2.js"
+    "static/js/main.38f12cb1.js"
   ]
 }
