@@ -11,7 +11,7 @@ import {
 } from './components'
 
 const App = () => (
-  <BrowserRouter>
+  <BrowserRouter basename='/Projects/Youflix'>
     <Box sx={{ backgroundColor: '#000' }}>
       <Navbar />
       <Routes>
